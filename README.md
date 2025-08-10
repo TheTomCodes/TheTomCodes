@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm AGLODIYA MAHAMMADALI</h1>
-<h3 align="center">A Passionate Web Developer & MCA Student from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thetomcodes&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/mahammadali2004" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mahammadali2004?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
 ---
@@ -10,8 +22,17 @@
 ## 🚀 About Me  
 - 🔭 Currently working on **Grocery Store Management System**  
 - 🌱 Learning **Machine Learning (ML), Flutter, Advanced Java, ASP.NET Web Applications (C#)**  
-- 💻 Passionate about **Full-Stack Development** with clean, responsive, and scalable code  
+- 💡 Passionate about **Full-Stack Development** and building **scalable, responsive, and clean-coded applications**  
 - 📫 Reach me at **mohammadaliaglodiya51@gmail.com**  
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://twitter.com/mahammadali2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahammadali aglodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/TheTomCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -38,24 +59,14 @@
 
 ## 📊 GitHub Stats  
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetomcodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thetomcodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetomcodes&" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect With Me  
 
 <p align="left">
-<a href="https://twitter.com/mahammadali2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahammadali aglodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://discord.gg/TheTomCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thetomcodes&" alt="GitHub Streak" />
 </p>
