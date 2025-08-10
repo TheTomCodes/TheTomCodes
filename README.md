@@ -1,72 +1,62 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm AGLODIYA MAHAMMADALI</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h3 align="center">💻 Passionate Web Developer from India</h3>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
 
+<!-- Trophy Section -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thetomcodes&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/mahammadali2004" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mahammadali2004?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thetomcodes&theme=radical&margin-w=10&margin-h=10&row=1" alt="trophies" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on **Grocery Store Management System**  
-- 🌱 Learning **Machine Learning (ML), Flutter, Advanced Java, ASP.NET Web Applications (C#)**  
-- 💡 Passionate about **Full-Stack Development** and building **scalable, responsive, and clean-coded applications**  
+## 🚀 About Me
+- 🔭 I’m currently working on **Grocery Store Management System**  
+- 🌱 I’m learning **Machine Learning (ML), Flutter, Advanced Java, ASP.NET Web Applications (C#)**  
 - 📫 Reach me at **mohammadaliaglodiya51@gmail.com**  
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://twitter.com/mahammadali2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahammadali aglodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://discord.gg/TheTomCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/mahammadali2004" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mahammadali-aglodiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/TheTomCodes" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠 Languages & Tools
+<div align="center">
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
+| Frontend | Backend | Programming | Database | Others |
+|----------|---------|-------------|----------|--------|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>](https://www.php.net) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>](https://www.cprogramming.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>](https://git-scm.com/) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>](https://www.w3schools.com/cpp/) |   | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>](https://flutter.dev) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>](https://www.python.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>](https://learn.microsoft.com/en-us/dotnet/csharp/) |   | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>](https://tailwindcss.com/) |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thetomcodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetomcodes&layout=compact&theme=radical" height="150" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thetomcodes&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=radical&hide_border=false" height="150" />
 </p>
