@@ -44,7 +44,7 @@
 | Frontend | Backend | Programming | Database | Others |
 |----------|---------|-------------|----------|--------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://www.php.net/images/logos/new-php-logo.svg" width="40"/>](https://www.php.net) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/>](https://www.cprogramming.com/) | [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40"/>](https://www.mysql.com/) | [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="40"/>](https://git-scm.com/) |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://laravel.com/img/logomark.min.svg" width="40"/>](https://laravel.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="40"/>](https://www.w3schools.com/cpp/) |   | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40"/>](https://flutter.dev) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://laravel.com/img/logomark.min.svg" width="40"/>](https://laravel.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40"/>](https://www.w3schools.com/cpp/) |   | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40"/>](https://flutter.dev) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://www.svgrepo.com/show/452091/python.svg" width="40"/>](https://www.python.org) | [<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40"/>](https://learn.microsoft.com/en-us/dotnet/csharp/) |   | [<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="40"/>](https://tailwindcss.com/) |
 | [<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40"/>](https://www.java.com/) | [<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40"/>](https://getbootstrap.com/) |   |   |   |
 
@@ -61,3 +61,24 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=radical&hide_border=false" height="150" />
 </p>
+
+---
+
+<!--
+🔗 Icon Sources:
+HTML5: https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg
+PHP: https://www.php.net/images/logos/new-php-logo.svg
+C: https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png
+MySQL: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+Git: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg
+CSS3: https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg
+Laravel: https://laravel.com/img/logomark.min.svg
+C++: https://cdn.worldvectorlogo.com/logos/c.svg
+Flutter: https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png
+JavaScript: https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
+Python: https://www.svgrepo.com/show/452091/python.svg
+C#: https://cdn.worldvectorlogo.com/logos/c--4.svg
+Tailwind CSS: https://www.svgrepo.com/show/354431/tailwindcss-icon.svg
+Java: https://www.vectorlogo.zone/logos/java/java-icon.svg
+Bootstrap: https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png
+-->
