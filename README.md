@@ -1,104 +1,89 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,30&height=220&section=header&text=Mahammadali%20Aglodiya&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=🚀%20Full%20Stack%20Developer%20|%20AI%20&%20ML%20Enthusiast&descAlignY=55&descSize=20" />
+<!-- GLITCH HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=MAHAMMADALI%20AGLODIYA&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=00FF41&desc=S.Y.S.T.E.M%20A.R.C.H.I.T.E.C.T%20|%20F.U.L.L%20S.T.A.C.K&descAlignY=60&descSize=20" />
 
-<!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Master+of+Computer+Applications;Building+Scalable+Web+Apps;YOLOv8+%26+Computer+Vision;Exploring+the+Future+of+AI" />
-</a>
-
+<!-- TERMINAL TYPING -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile+Views&color=9333EA&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/thetomcodes?label=Followers&style=for-the-badge&color=2563EB" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=ROOT@THE-TOM-CODES:~$+INIT;EXECUTING+SATELLITE_DETECTION.PY;UPDATING+LARAVEL_CORE...;STATUS:+ENHANCING+NEURAL+NETS" />
+</p>
+
+<!-- HACKER STATS -->
+<p align="center">
+<img src="https://img.shields.io/badge/SECURITY_LEVEL-CLASSIFIED-00FF41?style=for-the-badge&logo=probot&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ SYSTEM STATUS
 
-<table align="center">
+<table align="center" style="background-color: #000; border: 1px solid #00FF41;">
   <tr>
-    <td width="50%" style="border: none;">
-      <p>I am an <b>MCA Student</b> at L.J. Institute of Management Studies with a deep passion for software engineering. I specialize in bridging the gap between robust backend logic and intuitive frontend experiences.</p>
-      <ul>
-        <li>🔭 <b>Working on:</b> Satellite Image Detection System (YOLOv8)</li>
-        <li>🌱 <b>Learning:</b> Advanced ASP.NET Core & Flutter</li>
-        <li>💬 <b>Ask me about:</b> PHP, Python, and Web Architecture</li>
-        <li>⚡ <b>Fun Fact:</b> I turn ☕ caffeine into high-performance code</li>
-      </ul>
+    <td width="50%" style="border-right: 1px solid #00FF41; color: #00FF41; font-family: 'Courier New';">
+      <pre>
+<b>[SYSTEM ANALYSIS]</b>
+> NAME: MAHAMMADALI
+> ROLE: DEVELOPER / MCA_STUDENT
+> LOC : 23.0225° N, 72.5714° E
+> STATUS: DEPLOYING_CODE...
+      </pre>
+      <hr style="border: 0.5px solid #00FF41;" />
+      <b>CORE STACK:</b><br/>
+      <code>[PHP] [PYTHON] [REACT] [YOLOv8]</code>
     </td>
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333EA&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=matrix&hide_border=true&bg_color=000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Hacker Stats" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ ARSENAL (TECH_STACK)
 
-<div align="center">
+### 💀 BACKEND_EXPLOITS
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Laravel](https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?logo=fastapi&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
-| **AI/ML** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLOv8-00FFFF?logo=python&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
+### 🛰️ NEURAL_NETS
+![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41)
+![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/POSTGRES-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 
-</div>
-
----
-
-## 🚀 Key Projects
-
-<div align="center">
-
-| Project | Tech Stack | Status |
-| :--- | :--- | :---: |
-| **🛰️ Satellite Detection** | `Python`, `YOLOv8`, `FastAPI`, `React` | 🏆 Complete |
-| **🛒 Grocery Management** | `PHP`, `Laravel`, `JavaScript` | 🚧 Active |
-| **👥 Employee System** | `PHP`, `Tailwind CSS`, `MySQL` | ✅ Finished |
-| **🏫 Classroom Portal** | `PHP`, `MySQL`, `Tailwind` | ✅ Finished |
-
-</div>
+### 🎨 INTERFACE_OVERRIDE
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+![JS](https://img.shields.io/badge/JS_ES6-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
 
 ---
 
-## 📈 Activity & Stats
+## 📈 DATA_EXTRACTION (GITHUB_LOGS)
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetomcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333EA&text_color=c9d1d9)
-<br>
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=tokyonight&hide_border=true&background=0d1117&ring=9333EA&fire=F59E0B&currStreakLabel=3B82F6)
-
-### 🐍 The Code Journey
-![Snake](https://raw.githubusercontent.com/thetomcodes/thetomcodes/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📬 Connect with me
-
-<div align="center">
-
-<a href="mailto:mohammadaliaglodiya51@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/mahammadali-aglodiya">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/mahammadali2004">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thetomcodes&theme=react-dark&hide_border=true&bg_color=000&color=00FF41&line=00FF41&point=00FF41)
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,30&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41" width="100%" />
 
 </div>
+
+---
+
+## 📂 CURRENT_PROJECTS
+
+```bash
+# SATELLITE_IMAGE_DETECTION
+[STATUS: STABLE] --> Analyzing Satellite Data using YOLOv8 & FastAPI
+
+# GROCERY_STORE_MGMNT
+[STATUS: ENCRYPTING] --> Developing secure Laravel architecture
+
+# EMPLOYEE_TRACKER
+[STATUS: COMPILED] --> PHP / Tailwind CSS optimization complete
