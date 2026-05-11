@@ -1,89 +1,77 @@
 <div align="center">
 
-<!-- GLITCH HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=MAHAMMADALI%20AGLODIYA&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=00FF41&desc=S.Y.S.T.E.M%20A.R.C.H.I.T.E.C.T%20|%20F.U.L.L%20S.T.A.C.K&descAlignY=60&descSize=20" />
+<!-- GLITCH HEADER OVERRIDE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=220&section=header&text=A.G.L.O.D.I.Y.A%20M.A.H.A.M.M.A.D.A.L.I&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=00f2ff&desc=SYSTEM%20ARCHITECT%20//%20AI%20SATELLITE%20INTELLIGENCE%20//%20INTERN%20@%20BISAG-N&descAlignY=65&descSize=18" />
 
-<!-- TERMINAL TYPING -->
+<!-- CYBER TYPING COMPONENT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=ROOT@THE-TOM-CODES:~$+INIT;EXECUTING+SATELLITE_DETECTION.PY;UPDATING+LARAVEL_CORE...;STATUS:+ENHANCING+NEURAL+NETS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+CORE+SYSTEMS...;%3E+SATELLITE+YOLOv8+MODEL+ACTIVE;%3E+M.C.A.+SEMESTER+04+STATUS:+FINAL;%3E+ACCESS+GRANTED+TO+THE-TOM-CODES" />
 </p>
 
-<!-- HACKER STATS -->
+<!-- BIO-METRIC STATS -->
 <p align="center">
-<img src="https://img.shields.io/badge/SECURITY_LEVEL-CLASSIFIED-00FF41?style=for-the-badge&logo=probot&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/UPTIME-99.9%25-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=ACCESS_LOG&color=00f2ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/thetomcodes?label=NODES_CONNECTED&style=for-the-badge&color=00f2ff" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ SYSTEM STATUS
+## 💻 // SYSTEM_ANALYSIS
 
-<table align="center" style="background-color: #000; border: 1px solid #00FF41;">
+<table align="center">
   <tr>
-    <td width="50%" style="border-right: 1px solid #00FF41; color: #00FF41; font-family: 'Courier New';">
-      <pre>
-<b>[SYSTEM ANALYSIS]</b>
-> NAME: MAHAMMADALI
-> ROLE: DEVELOPER / MCA_STUDENT
-> LOC : 23.0225° N, 72.5714° E
-> STATUS: DEPLOYING_CODE...
+    <td width="55%" style="border: 2px solid #00f2ff; background: #000;">
+      <pre align="left" style="color: #00f2ff; font-family: 'Courier New', monospace;">
+<b>[IDENT_DATA]</b>
+NAME       : MahammadAli Aglodiya
+ALIAS      : TheTomCodes
+CLASS      : M.C.A. (L.J. Institute)
+SPECIALTY  : Full-Stack / AI-Vision
+EXP_LEVEL  : Intern @ BISAG-N
+
+<b>[CURRENT_MISSION]</b>
+> Training YOLOv8 for Satellite Imagery
+> Optimizing PHP Society Management
+> Building high-res Map Capture engine
       </pre>
-      <hr style="border: 0.5px solid #00FF41;" />
-      <b>CORE STACK:</b><br/>
-      <code>[PHP] [PYTHON] [REACT] [YOLOv8]</code>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=matrix&hide_border=true&bg_color=000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Hacker Stats" />
+    <td width="45%" style="border: 2px solid #00f2ff; background: #000;">
+      <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ ARSENAL (TECH_STACK)
+## 🛠️ // TECHNICAL_ARSENAL
 
-### 💀 BACKEND_EXPLOITS
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Laravel](https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=00FF41)
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+### 🧠 NEURAL & AI_MODULES
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=scikitlearn&logoColor=00f2ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00f2ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00f2ff)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f2ff)
 
-### 🛰️ NEURAL_NETS
-![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41)
-![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/POSTGRES-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-
-### 🎨 INTERFACE_OVERRIDE
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00FF41)
-![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
-![JS](https://img.shields.io/badge/JS_ES6-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+### ⚡ CORE_DEVELOPMENT
+![React](https://img.shields.io/badge/React_18-000000?style=for-the-badge&logo=react&logoColor=00f2ff)
+![PHP](https://img.shields.io/badge/PHP_OOP-000000?style=for-the-badge&logo=php&logoColor=00f2ff)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00f2ff)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00f2ff)
 
 ---
 
-## 📈 DATA_EXTRACTION (GITHUB_LOGS)
+## 🚀 // DEPLOYED_PROJECTS
 
-<div align="center">
+```diff
++ [01] SATELLITE IMAGE DETECTION SYSTEM
+! Tech: YOLOv8 | FastAPI | React | PostgreSQL
+- Status: Production Ready (GIS Integrated)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thetomcodes&theme=react-dark&hide_border=true&bg_color=000&color=00FF41&line=00FF41&point=00FF41)
++ [02] SOCIETY MANAGEMENT ENGINE
+! Tech: PHP | MySQL | JS | Bootstrap
+- Status: Final Audit Complete
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41" width="100%" />
-
-</div>
-
----
-
-## 📂 CURRENT_PROJECTS
-
-```bash
-# SATELLITE_IMAGE_DETECTION
-[STATUS: STABLE] --> Analyzing Satellite Data using YOLOv8 & FastAPI
-
-# GROCERY_STORE_MGMNT
-[STATUS: ENCRYPTING] --> Developing secure Laravel architecture
-
-# EMPLOYEE_TRACKER
-[STATUS: COMPILED] --> PHP / Tailwind CSS optimization complete
++ [03] GROCERY STORE ECOSYSTEM
+! Tech: PHP | SQL | Tailwind
+- Status: Optimized for Scale
