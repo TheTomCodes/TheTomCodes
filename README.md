@@ -1,77 +1,55 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live UI Demo - Working Proof</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: system-ui, 'Segoe UI', sans-serif; }
+    body { background: linear-gradient(145deg, #0a0f1e, #03050b); min-height: 100vh; display: flex; justify-content: center; align-items: center; padding: 1rem; }
+    .card { background: rgba(20, 25, 45, 0.7); backdrop-filter: blur(12px); border-radius: 2rem; padding: 2rem; width: 500px; max-width: 100%; border: 1px solid #7c3aed; box-shadow: 0 25px 40px -12px black; }
+    h1 { background: linear-gradient(135deg, #c084fc, #60a5fa); -webkit-background-clip: text; background-clip: text; color: transparent; margin-bottom: 1rem; }
+    button { background: #7c3aed; border: none; padding: 0.6rem 1.2rem; border-radius: 2rem; font-weight: bold; color: white; cursor: pointer; transition: 0.2s; margin-top: 1rem; }
+    button:hover { background: #a855f7; transform: scale(1.02); box-shadow: 0 0 12px #a855f7; }
+    .value { font-size: 3rem; font-weight: 800; color: #c084fc; margin: 1rem 0; }
+    .time { font-family: monospace; background: #00000040; padding: 0.5rem; border-radius: 1rem; text-align: center; margin-top: 1rem; }
+    input { width: 100%; padding: 0.7rem; border-radius: 1rem; border: 1px solid #2d3250; background: #0f1222; color: white; margin: 0.5rem 0; }
+  </style>
+</head>
+<body>
+<div class="card">
+  <h1>✨ Advanced UI Preview</h1>
+  <p>This runs 100% — live counter, clock, and editable preview</p>
+  <div class="value" id="counter">0</div>
+  <button id="incBtn">Increase +1</button>
+  <button id="resetBtn" style="background: #334155;">Reset</button>
 
-<!-- GLITCH HEADER OVERRIDE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=220&section=header&text=A.G.L.O.D.I.Y.A%20M.A.H.A.M.M.A.D.A.L.I&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=00f2ff&desc=SYSTEM%20ARCHITECT%20//%20AI%20SATELLITE%20INTELLIGENCE%20//%20INTERN%20@%20BISAG-N&descAlignY=65&descSize=18" />
+  <input type="text" id="textInput" placeholder="Type something..." value="Hello world">
+  <div style="background: #00000030; border-radius: 1rem; padding: 0.5rem; margin-top: 0.5rem;">
+    Live preview: <strong id="preview">Hello world</strong>
+  </div>
 
-<!-- CYBER TYPING COMPONENT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+CORE+SYSTEMS...;%3E+SATELLITE+YOLOv8+MODEL+ACTIVE;%3E+M.C.A.+SEMESTER+04+STATUS:+FINAL;%3E+ACCESS+GRANTED+TO+THE-TOM-CODES" />
-</p>
-
-<!-- BIO-METRIC STATS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=ACCESS_LOG&color=00f2ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/thetomcodes?label=NODES_CONNECTED&style=for-the-badge&color=00f2ff" />
-</p>
-
+  <div class="time" id="liveClock">--:--:--</div>
 </div>
+<script>
+  // fully functional interactive components
+  let count = 0;
+  const counterDiv = document.getElementById('counter');
+  const incBtn = document.getElementById('incBtn');
+  const resetBtn = document.getElementById('resetBtn');
+  incBtn.onclick = () => { count++; counterDiv.innerText = count; };
+  resetBtn.onclick = () => { count = 0; counterDiv.innerText = count; };
 
----
+  const textInput = document.getElementById('textInput');
+  const previewSpan = document.getElementById('preview');
+  textInput.oninput = () => { previewSpan.innerText = textInput.value; };
 
-## 💻 // SYSTEM_ANALYSIS
-
-<table align="center">
-  <tr>
-    <td width="55%" style="border: 2px solid #00f2ff; background: #000;">
-      <pre align="left" style="color: #00f2ff; font-family: 'Courier New', monospace;">
-<b>[IDENT_DATA]</b>
-NAME       : MahammadAli Aglodiya
-ALIAS      : TheTomCodes
-CLASS      : M.C.A. (L.J. Institute)
-SPECIALTY  : Full-Stack / AI-Vision
-EXP_LEVEL  : Intern @ BISAG-N
-
-<b>[CURRENT_MISSION]</b>
-> Training YOLOv8 for Satellite Imagery
-> Optimizing PHP Society Management
-> Building high-res Map Capture engine
-      </pre>
-    </td>
-    <td width="45%" style="border: 2px solid #00f2ff; background: #000;">
-      <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ // TECHNICAL_ARSENAL
-
-### 🧠 NEURAL & AI_MODULES
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=scikitlearn&logoColor=00f2ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00f2ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00f2ff)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f2ff)
-
-### ⚡ CORE_DEVELOPMENT
-![React](https://img.shields.io/badge/React_18-000000?style=for-the-badge&logo=react&logoColor=00f2ff)
-![PHP](https://img.shields.io/badge/PHP_OOP-000000?style=for-the-badge&logo=php&logoColor=00f2ff)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00f2ff)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00f2ff)
-
----
-
-## 🚀 // DEPLOYED_PROJECTS
-
-```diff
-+ [01] SATELLITE IMAGE DETECTION SYSTEM
-! Tech: YOLOv8 | FastAPI | React | PostgreSQL
-- Status: Production Ready (GIS Integrated)
-
-+ [02] SOCIETY MANAGEMENT ENGINE
-! Tech: PHP | MySQL | JS | Bootstrap
-- Status: Final Audit Complete
-
-+ [03] GROCERY STORE ECOSYSTEM
-! Tech: PHP | SQL | Tailwind
-- Status: Optimized for Scale
+  function updateClock() {
+    const now = new Date();
+    document.getElementById('liveClock').innerText = now.toLocaleTimeString();
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+</script>
+</body>
+</html>
