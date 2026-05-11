@@ -1,223 +1,343 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Live UI Demo - Working Proof</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: system-ui, 'Segoe UI', 'Inter', sans-serif;
-    }
+<div align="center">
 
-    body {
-      background: linear-gradient(145deg, #0a0f1e, #03050b);
-      min-height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding: 1rem;
-    }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=MAHAMMADALI%20AGLODIYA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20•%20AI/ML%20ENGINEER%20•%20THE%20TOM%20CODES&descAlignY=58&descSize=20" />
 
-    /* glassomorphic card */
-    .card {
-      background: rgba(20, 25, 45, 0.7);
-      backdrop-filter: blur(12px);
-      border-radius: 2rem;
-      padding: 2rem;
-      width: 540px;
-      max-width: 100%;
-      border: 1px solid #7c3aed;
-      box-shadow: 0 25px 40px -12px rgba(0, 0, 0, 0.6);
-      transition: all 0.2s ease;
-    }
-
-    .card:hover {
-      border-color: #a855f7;
-      box-shadow: 0 30px 45px -12px black;
-    }
-
-    h1 {
-      background: linear-gradient(135deg, #c084fc, #60a5fa);
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-      margin-bottom: 0.6rem;
-      font-size: 1.9rem;
-      letter-spacing: -0.3px;
-    }
-
-    .sub {
-      color: #94a3b8;
-      font-size: 0.9rem;
-      margin-bottom: 1.2rem;
-      border-left: 2px solid #7c3aed;
-      padding-left: 0.75rem;
-    }
-
-    button {
-      background: #7c3aed;
-      border: none;
-      padding: 0.6rem 1.3rem;
-      border-radius: 2rem;
-      font-weight: 600;
-      color: white;
-      cursor: pointer;
-      transition: all 0.2s;
-      margin-top: 0.8rem;
-      margin-right: 0.8rem;
-      font-size: 0.9rem;
-    }
-
-    button:hover {
-      background: #a855f7;
-      transform: scale(1.02);
-      box-shadow: 0 0 12px #a855f7;
-    }
-
-    .value {
-      font-size: 3.2rem;
-      font-weight: 800;
-      color: #c084fc;
-      margin: 0.8rem 0 0.5rem 0;
-      letter-spacing: 2px;
-    }
-
-    .time {
-      font-family: 'Fira Code', monospace;
-      background: #00000040;
-      padding: 0.6rem;
-      border-radius: 1.2rem;
-      text-align: center;
-      margin-top: 1.2rem;
-      font-size: 1rem;
-      color: #b9c7dd;
-    }
-
-    input {
-      width: 100%;
-      padding: 0.75rem;
-      border-radius: 1.2rem;
-      border: 1px solid #2d3250;
-      background: #0f1222;
-      color: white;
-      margin: 0.5rem 0;
-      font-size: 0.9rem;
-      outline: none;
-      transition: 0.2s;
-    }
-
-    input:focus {
-      border-color: #a855f7;
-      box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.3);
-    }
-
-    .preview-box {
-      background: #00000030;
-      border-radius: 1.2rem;
-      padding: 0.7rem;
-      margin-top: 0.7rem;
-      font-size: 0.95rem;
-      border: 1px solid #2a2e48;
-    }
-
-    .flex-buttons {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.6rem;
-      align-items: center;
-    }
-
-    hr {
-      margin: 1rem 0;
-      border-color: #2d3250;
-    }
-
-    footer {
-      font-size: 0.7rem;
-      text-align: center;
-      margin-top: 1.5rem;
-      opacity: 0.6;
-      color: #7e8aa8;
-    }
-  </style>
-</head>
-<body>
-<div class="card">
-  <h1>✨ Advanced UI Preview</h1>
-  <div class="sub">Live counter · real‑time clock · instant edit</div>
-
-  <!-- counter section -->
-  <div class="value" id="counter">0</div>
-  <div class="flex-buttons">
-    <button id="incBtn">➕ Increase +1</button>
-    <button id="resetBtn" style="background: #334155;">🔄 Reset</button>
-  </div>
-
-  <!-- live editable text -->
-  <input type="text" id="textInput" placeholder="Type something amazing..." value="Hello world">
-  <div class="preview-box">
-    💬 <strong>Live preview:</strong> <span id="preview">Hello world</span>
-  </div>
-
-  <!-- live clock -->
-  <div class="time" id="liveClock">--:--:--</div>
-  <footer>
-    ⚡ Fully functional · interactive glassmorphism · no external dependencies
-  </footer>
 </div>
 
-<script>
-  // 1. counter logic
-  let count = 0;
-  const counterDiv = document.getElementById('counter');
-  const incBtn = document.getElementById('incBtn');
-  const resetBtn = document.getElementById('resetBtn');
+<div align="center">
 
-  incBtn.onclick = () => {
-    count++;
-    counterDiv.innerText = count;
-    // optional micro feedback (visual pulse)
-    counterDiv.style.transform = 'scale(1.05)';
-    setTimeout(() => { counterDiv.style.transform = 'scale(1)'; }, 120);
-  };
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=🚀+FULL+STACK+DEVELOPER;⚡+REACT+•+FASTAPI+•+LARAVEL+EXPERT;🧠+AI%2FML+ENGINEER+•+YOLOv8+SPECIALIST;🔥+BUILDING+HIGH+PERFORMANCE+APPLICATIONS;💻+PASSIONATE+ABOUT+CLEAN+CODE" />
 
-  resetBtn.onclick = () => {
-    count = 0;
-    counterDiv.innerText = count;
-    counterDiv.style.transform = 'scale(0.98)';
-    setTimeout(() => { counterDiv.style.transform = 'scale(1)'; }, 150);
-  };
+</div>
 
-  // 2. live text preview
-  const textInput = document.getElementById('textInput');
-  const previewSpan = document.getElementById('preview');
+---
 
-  textInput.oninput = () => {
-    let newText = textInput.value;
-    previewSpan.innerText = newText;
-    // additional dynamic effect
-    previewSpan.style.opacity = '0.7';
-    setTimeout(() => { previewSpan.style.opacity = '1'; }, 100);
-  };
+<div align="center">
 
-  // 3. real-time clock (updates every second)
-  function updateClock() {
-    const now = new Date();
-    // Indian standard time format (24h or 12h)
-    const timeString = now.toLocaleTimeString('en-IN', { 
-      hour12: false,
-      hour: '2-digit',
-      minute: '2-digit',
-      second: '2-digit'
-    });
-    const clockElement = document.getElementById('liveClock');
-    if (clockElement) clockElement.innerText = `🕒 ${timeString} IST`;
-  }
-  updateClock();
-  setInterval(updateClock, 1000);
-</script>
-</body>
-</html>
+<img src="https://komarev.com/ghpvc/?username=TheTomCodes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/TheTomCodes?style=for-the-badge&color=00F7FF&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/TheTomCodes?style=for-the-badge&color=FFD700&labelColor=000000" />
+
+</div>
+
+---
+
+# ⚡ SYSTEM.INIT()
+
+<img align="right" width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+```yaml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👨‍💻 Name      : Mahammadali Aglodiya
+🚀 Role      : Full Stack Developer
+🧠 Speciality: AI/ML + Backend Systems
+📍 Location  : Ahmedabad, Gujarat, India
+🎓 Education : MCA Student
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS       : ONLINE 🟢
+MODE         : CODING ⚡
+FOCUS        : BUILDING SCALABLE SYSTEMS 🚀
+```
+
+<br clear="right"/>
+
+---
+
+# 🌌 ABOUT ME
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 💫 Developer Profile
+
+- ⚡ Full Stack Web Developer
+- 🚀 Passionate about scalable apps
+- 🧠 AI/ML integration enthusiast
+- 🎨 Modern UI/UX lover
+- 🔥 Backend architecture focused
+- 💻 Clean code advocate
+
+</td>
+
+<td width="50%">
+
+## ⚔️ Current Mission
+
+```javascript
+const Mahammadali = {
+    languages: [
+        "Python",
+        "PHP",
+        "JavaScript",
+        "Java",
+        "C#"
+    ],
+
+    frontend: [
+        "React",
+        "TailwindCSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "FastAPI",
+        "Flask",
+        "Laravel"
+    ],
+
+    databases: [
+        "MySQL",
+        "PostgreSQL"
+    ],
+
+    ai_ml: [
+        "YOLOv8",
+        "OpenCV"
+    ],
+
+    goal: "Build futuristic applications 🚀"
+};
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,js,java,c,cpp,cs,html,css,react,fastapi,flask,laravel,tailwind,bootstrap,mysql,postgresql,git,github,vscode,visualstudio,jupyter&perline=11" />
+
+</div>
+
+---
+
+# 🧠 AI / ML STACK
+
+<div align="center">
+
+| Technology | Usage |
+|------------|-------|
+| YOLOv8 | Satellite Image Detection |
+| OpenCV | Image Processing |
+| FastAPI | AI Backend APIs |
+| Flask | ML Integration |
+| PostgreSQL | Data Management |
+| SQLAlchemy | ORM & Database Layer |
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+## 🛰️ SATELLITE IMAGE DETECTION SYSTEM
+
+</div>
+
+```diff
++ AI Powered Satellite Detection Platform
++ YOLOv8 Real-time Detection
++ Interactive GIS Visualization
++ JWT Secure Authentication
++ PostgreSQL Backend Architecture
++ FastAPI + Flask Integration
+```
+
+### ⚙️ TECH USED
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,flask,postgresql" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛒 GROCERY STORE MANAGEMENT SYSTEM
+
+</div>
+
+```yaml
+Features:
+  - Inventory Management
+  - Billing Dashboard
+  - Analytics System
+  - User Role Management
+  - Product Tracking
+```
+
+---
+
+<div align="center">
+
+## 👨‍💼 EMPLOYEE MANAGEMENT SYSTEM
+
+</div>
+
+```yaml
+Features:
+  - Employee Records
+  - Admin Dashboard
+  - Dynamic Search
+  - TailwindCSS UI
+```
+
+---
+
+<div align="center">
+
+## 🏫 CLASSROOM MANAGEMENT SYSTEM
+
+</div>
+
+```yaml
+Features:
+  - Attendance Management
+  - Assignment Tracking
+  - Role Based Access
+  - Student Management
+```
+
+---
+
+<div align="center">
+
+## 🏢 SOCIETY MANAGEMENT SYSTEM
+
+</div>
+
+```yaml
+Features:
+  - Resident Management
+  - Maintenance Tracking
+  - Dynamic Dashboard
+  - Bootstrap Responsive UI
+```
+
+---
+
+# 💼 EXPERIENCE
+
+## 🚀 PYTHON DEVELOPER INTERN — BISAG-N
+
+```bash
+Duration      : 3 Months
+Location      : Gandhinagar
+Tech Stack    : Python, FastAPI, Flask
+AI/ML         : YOLOv8, OpenCV
+Database      : PostgreSQL, SQLAlchemy
+Authentication: JWT
+```
+
+### 🔥 Responsibilities
+
+- Built scalable REST APIs
+- Integrated YOLOv8 AI models
+- Worked on GIS satellite systems
+- Optimized backend performance
+- Managed PostgreSQL databases
+
+---
+
+# 🎓 EDUCATION
+
+<div align="center">
+
+| Degree | Institute | Year |
+|--------|------------|------|
+| 🎓 MCA | L.J. Institute of Management Studies | 2024 — Present |
+| 🎓 BCA | I.T. Sheliya Jafari B.C.A. College | 2021 — 2024 |
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheTomCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheTomCodes&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00AA&currStreakLabel=00F7FF" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTomCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheTomCodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF00AA&point=FFFFFF" />
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheTomCodes&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TheTomCodes/TheTomCodes/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:mohammadaliaglodiya51@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/TheTomCodes">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ CODE • CREATE • INNOVATE ⚡
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
+
+</div>
