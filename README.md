@@ -1,87 +1,144 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm AGLODIYA MAHAMMADALI</h1>
-<h3 align="center">💻 Passionate Web Developer from India</h3>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
-</p>
-
-<!-- Trophy Section -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thetomcodes&theme=radical&margin-w=10&margin-h=10&row=1" alt="trophies" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on **Grocery Store Management System**  
-- 🌱 I’m learning **Machine Learning (ML), Flutter, Advanced Java, ASP.NET Web Applications (C#)**  
-- 📫 Reach me at **mohammadaliaglodiya51@gmail.com**  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/mahammadali2004" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mahammadali-aglodiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/TheTomCodes" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🛠 Languages & Tools
 <div align="center">
 
-| Frontend | Backend | Programming | Database | Others |
-|----------|---------|-------------|----------|--------|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://www.php.net/images/logos/new-php-logo.svg" width="40"/>](https://www.php.net) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40"/>](https://www.cprogramming.com/) | [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40"/>](https://www.mysql.com/) | [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="40"/>](https://git-scm.com/) |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://laravel.com/img/logomark.min.svg" width="40"/>](https://laravel.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40"/>](https://www.w3schools.com/cpp/) |   | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40"/>](https://flutter.dev) |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |   | [<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40"/>](https://learn.microsoft.com/en-us/dotnet/csharp/) |   |   |
-| [<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40"/>](https://getbootstrap.com/) |   | [<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40"/>](https://www.java.com/) |   |   |
-| [<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="40"/>](https://tailwindcss.com/) |   | [<img src="https://www.svgrepo.com/show/452091/python.svg" width="40"/>](https://www.python.org) |   |   |
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahammadali%20Aglodiya&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=💻%20Passionate%20Web%20Developer%20·%20India%20🇮🇳&descAlignY=55&descSize=18" />
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+Grocery+Store+Management+System+🛒;Exploring+Machine+Learning+%26+Flutter+🤖;Crafting+Beautiful+Web+UIs+🎨;Learning+ASP.NET+%26+C%23+🪟;Welcome+to+my+GitHub+Profile+👋)](https://git.io/typing-svg)
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=thetomcodes&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/thetomcodes?label=Followers&style=for-the-badge&color=06b6d4" alt="Followers" />
+</p>
+
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=thetomcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
+</a>
 
 </div>
 
+---
 
+## 🧑‍💻 About Me
+
+```typescript
+const mahammadali = {
+  name     : "Mahammadali Aglodiya",
+  username : "@thetomcodes",
+  location : "India 🇮🇳",
+  email    : "mohammadaliaglodiya51@gmail.com",
+  
+  currentProject : "Grocery Store Management System 🛒",
+  
+  learning : ["Machine Learning", "Flutter", "Advanced Java", "ASP.NET (C#)"],
+  
+  askMeAbout : ["Web Dev", "PHP", "Laravel", "JavaScript", "MySQL"],
+  
+  funFact  : "I turn ☕ coffee into code!",
+};
+```
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetomcodes&layout=compact&theme=radical" height="150" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=radical&hide_border=false" height="150" />
-</p>
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mahammadali2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahammadali-aglodiya)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TheTomCodes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadaliaglodiya51@gmail.com)
+
+</div>
 
 ---
 
-<!--
-🔗 Icon Sources:
-HTML5: https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg
-PHP: https://www.php.net/images/logos/new-php-logo.svg
-C: https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png
-MySQL: https://raw.githubusercontent.com/mysql/mysql-server/refs/heads/8.0/man/branding/logo-mysql-170x115.png
-Git: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg
-CSS3: https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg
-Laravel: https://laravel.com/img/logomark.min.svg
-C++: https://cdn.worldvectorlogo.com/logos/c.svg
-Flutter: https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png
-JavaScript: https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
-Python: https://www.svgrepo.com/show/452091/python.svg
-C#: https://cdn.worldvectorlogo.com/logos/c--4.svg
-Tailwind CSS: https://www.svgrepo.com/show/354431/tailwindcss-icon.svg
-Java: https://www.vectorlogo.zone/logos/java/java-icon.svg
-Bootstrap: https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png
--->
+## 🔭 Active Project
+
+<div align="center">
+
+| 🛒 Grocery Store Management System |
+|---|
+| A full-featured store management platform with inventory tracking, billing, user roles & analytics dashboard |
+| ![Status](https://img.shields.io/badge/Status-In%20Development-7c3aed?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20Laravel%20%7C%20MySQL-06b6d4?style=flat-square) |
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|---|---|
+| 🤖 Machine Learning | ![35%](https://progress-bar.dev/35/?title=Learning&color=7c3aed&width=200) |
+| 📱 Flutter | ![50%](https://progress-bar.dev/50/?title=Learning&color=06b6d4&width=200) |
+| ☕ Advanced Java | ![60%](https://progress-bar.dev/60/?title=Learning&color=f59e0b&width=200) |
+| 🪟 ASP.NET / C# | ![40%](https://progress-bar.dev/40/?title=Learning&color=ec4899&width=200) |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thetomcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetomcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=thetomcodes&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=c9d1d9&stroke=7c3aed" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=thetomcodes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f59e0b" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thetomcodes/thetomcodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects helpful, consider giving them a star!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+</div>
